@@ -12,7 +12,9 @@ Requirement is to convert the Assignment S10 code into Pytorch Lightning  on Cif
 
 ## MisClassified Images
 
-![image](https://github.com/paulsamir2010/ERA1_S12/blob/main/Misclassified_Images.jpg)
+![image](https://github.com/paulsamir2010/ERA1-S12-PyTorch-Lightning-Gradio-HuggingFace-spaces/blob/main/Misclassified_Images.jpg)
+
+
 
 ## GradCAM Visualization of MisClassified Images
 
